@@ -1,3 +1,8 @@
+layout: post
+title: "App Monitoring"
+date: 2014-04-30
+categories: CATEGORY-1 CATEGORY-2
+
 İzleme çözümü 3 adımdan oluşur.
 
 - [Monitoring - Veri kaydetme + Görüntüleme çözümleri](#monitoring---veri-kaydetme--g%C3%B6r%C3%BCnt%C3%BCleme-%C3%A7%C3%B6z%C3%BCmleri)
